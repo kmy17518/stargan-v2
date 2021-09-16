@@ -1,6 +1,6 @@
 ## StarGAN v2
 
-### AFHQ Dataset + My Pet Dog
+### AFHQ Dataset + My Pet
 ---
 
 <img width="500" src="assets/result2.png" />
