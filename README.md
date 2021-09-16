@@ -1,5 +1,4 @@
 ## StarGAN v2
----
 
 ### AFHQ Dataset + My Pet
 ---
