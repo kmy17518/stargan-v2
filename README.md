@@ -10,6 +10,6 @@
 ### CelebA Dataset + Me
 ---
 
-<img src="assets/vedio.gif" />
+<img src="assets/vedio_ref (2).gif" />
 
 <img src="assets/reference.jpg">
